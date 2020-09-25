@@ -3,13 +3,13 @@
 To get started, please follow these very simple instructions:
 
 
-**Download the 'Mac-Address-Checker file by typing in your terminal**
+**Download the 'Mac-Address-Checker repository by typing in your terminal**
 
-`sudo git clone https://github.com/thecarpetjasp/MAC-Address-Checker`
+`sudo git clone https://github.com/thecarpetjasp/MAC-Address-Vendor`
     
  
  
-**Next change into the mac directory**
+**Next change into the Mac-Address-Vendor directory**
  
  `cd MAC-Address-Vendor`
    
