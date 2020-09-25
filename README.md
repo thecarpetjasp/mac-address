@@ -11,7 +11,7 @@ To get started, please follow these very simple instructions:
  
 **Next change into the mac directory**
  
- `cd MAC-Address-Checker`
+ `cd MAC-Address-Vendor`
    
    
 **Install the requirements**
