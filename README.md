@@ -6,6 +6,7 @@ This program will allow you to search the vendor of any Mac Address, anywhere fr
 
 
 To get started, please follow these very simple instructions:
+#
 
 thecarpetjasp/MAC-Address-Checker
 **Download the 'Mac-Address-Checker repository by typing in your terminal**
