@@ -34,7 +34,7 @@ To get started, please follow these very simple instructions:
 Now you're ready!
 
 
-**To open Mac Address Checker, simply type anywhere in your terminal**
+**To open Mac Address Vendor, simply type anywhere in your terminal**
 
 `mac.py`
     
