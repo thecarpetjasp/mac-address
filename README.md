@@ -10,7 +10,7 @@ To get started, please follow these very simple instructions:
 
 **Download the 'Mac-Address-Vendor' repository by typing in your terminal**
 
-`sudo git clone https://github.com/thecarpetjasp/MAC-Address-Vendor`
+`sudo git clone https://github.com/thecarpetjasp/Mac-Address-Vendor`
     
  
  
