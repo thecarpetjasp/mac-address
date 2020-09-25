@@ -16,7 +16,7 @@ To get started, please follow these very simple instructions:
  
 **Next, change into the Mac-Address-Vendor directory**
  
- `cd MAC-Address-Vendor`
+ `cd Mac-Address-Vendor`
    
    
 **Install the requirements**
