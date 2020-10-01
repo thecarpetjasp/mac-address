@@ -8,15 +8,15 @@ This program will allow you to search the vendor of any Mac Address, anywhere fr
 To get started, please follow these very simple instructions:
 #
 
-**Download the 'Mac-Address-Vendor' repository by typing in your terminal**
+**Download the 'Mac Address Vendor Lookup' repository by typing in your terminal**
 
-`sudo git clone https://github.com/thecarpetjasp/Mac-Address-Vendor`
+`sudo git clone https://github.com/thecarpetjasp/mac-address`
     
  
  
-**Next, change into the Mac-Address-Vendor directory**
+**Next, change into the 'mac-address' directory**
  
- `cd Mac-Address-Vendor`
+ `cd mac-address`
    
    
 **Install the requirements**
