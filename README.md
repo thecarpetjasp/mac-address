@@ -26,9 +26,7 @@ To get started, please follow these very simple instructions:
    
 **Now make your program executable, so you can use it anywhere in your terminal, at any time**
 
-`sudo chmod +x mac.py`
-
-`sudo mv mac.py /usr/bin/`
+`python3 runme.py`
     
     
 Now you're ready!
@@ -36,7 +34,7 @@ Now you're ready!
 
 **To open Mac Address Vendor, simply type anywhere in your terminal**
 
-`mac.py`
+`mac`
     
     
 Enjoy!
