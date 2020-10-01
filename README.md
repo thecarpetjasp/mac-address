@@ -1,4 +1,4 @@
-# Mac-Address-Vendor
+# Mac Address Vendor Lookup
 This program will allow you to search the vendor of any Mac Address, anywhere from your terminal
 #
 #
