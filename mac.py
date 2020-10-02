@@ -15,8 +15,13 @@ while True:
         print (Style.RESET_ALL)
         print ("******************************")
         break
-    except (mac_vendor_lookup.InvalidMacError, KeyError):
-        print ("SORRY, NO RESULTS")
+    except mac_vendor_lookup.InvalidMacError:
+        print ("INVALID MAC ADDRESS")
+        print (Style.RESET_ALL)
+        print ("******************************")
+        break
+    except KeyError:
+        print ("NO RESULTS FOUND")
         print (Style.RESET_ALL)
         print ("******************************")
         break
