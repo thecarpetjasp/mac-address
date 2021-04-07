@@ -19,12 +19,7 @@ To get started, please follow these very simple instructions:
  `cd mac-address`
    
    
-**Install the requirements**
-
-`sudo pip3 install -r requirements.txt`
-   
-   
-**Now make your program executable, so you can use it anywhere in your terminal, at any time**
+**Now, run the 'runme.py' application**
 
 `python3 runme.py`
     
