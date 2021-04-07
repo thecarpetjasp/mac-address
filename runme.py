@@ -1,7 +1,9 @@
 import os
+import os
 import colorama
 from colorama import Fore, Style
 
+os.system("cls||sudo pip3 install -r requirements.txt")
 os.system("cls||sudo chmod +x mac.py")
 os.system("cls||sudo mv mac.py /usr/bin/mac")
 os.system("cls||clear")
