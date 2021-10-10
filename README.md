@@ -33,6 +33,3 @@ Now you're ready!
     
     
 Enjoy!
-
-
-http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-1/%cf%80%ce%b1%cf%81%ce%b1%ce%b4%ce%bf%cf%83%ce%b9%ce%b1%ce%ba%ce%ae-%ce%b2%cf%81%ce%b1%ce%b4%ce%b9%ce%ac-%cf%83%cf%84%ce%bf-%cf%81%ce%b9%ce%ba/
